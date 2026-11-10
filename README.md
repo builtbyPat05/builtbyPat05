@@ -21,4 +21,4 @@ content gives me a firsthand view of audience needs and product questions.
 
 I'm exploring new-grad roles in AI-focused engineering, product, and solutions engineering.
 
-[Portfolio](https://builtbypat05.github.io/) · [LinkedIn](https://linkedin.com/in/patricktaylor-connect)
+[Résumé (PDF)](https://builtbypat05.github.io/Patrick-Taylor-Resume.pdf) · [Portfolio](https://builtbypat05.github.io/) · [LinkedIn](https://linkedin.com/in/patricktaylor-connect)
